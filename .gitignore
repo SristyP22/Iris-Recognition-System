@@ -1,63 +1,12 @@
-# ========================
-# OS files
-# ========================
-Thumbs.db
-.DS_Store
-
-# ========================
-# VS Code settings
-# ========================
-.vscode/
-
-# ========================
-# Java files (if project uses Java)
-# ========================
-*.class
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# ========================
-# Documents (DO NOT upload to GitHub)
-# ========================
 *.pdf
 *.doc
 *.docx
 *.ppt
 *.pptx
-
-# ========================
-# Videos / Media files
-# ========================
 *.avi
 *.mp4
 *.mkv
-*.mov
 
-# ========================
-# Logs / temp files
-# ========================
-*.log
-*.tmp
+Thumbs.db
 *.db
-hs_err_pid*
-replay_pid*
-
-# ========================
-# Python cache (safe to include if Python used)
-# ========================
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-
-# ========================
-# Git folder (never include)
-# ========================
-.git
+.vscode/

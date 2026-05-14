@@ -294,7 +294,9 @@ Open the project in:
 
 * IntelliJ IDEA
 * Eclipse
+* VS Code
 * NetBeans
+  
 
 ## Step 3 — Compile Project
 

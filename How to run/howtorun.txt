@@ -1,0 +1,10 @@
+How To Run
+==========
+
+1.Install JDK 1.8 
+
+2.Set a Path in ur Environmental Varaible
+
+3.Run the run.bat file, It is there in the Soucecode Folder
+
+============================================
